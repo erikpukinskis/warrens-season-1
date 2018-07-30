@@ -1,0 +1,14 @@
+{
+  "name": "warrens",
+  "version": "0.0.0",
+  "dependencies": {
+    "module-library": "*",
+    "web-site": "*",
+    "web-element": "*",
+    "html-painting": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikpukinskis/warrens.git"
+  }
+}
